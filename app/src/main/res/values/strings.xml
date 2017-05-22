@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="firstKotlin">第一个Kotlin程序</string>
+</resources>
